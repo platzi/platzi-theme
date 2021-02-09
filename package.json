@@ -1,0 +1,21 @@
+{
+    "name": "platzi-theme-for-vs-code",
+    "displayName": "Platzi Theme for VS Code",
+    "description": "A theme created with love by platzi theme for our students",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Platzi Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi Theme-color-theme.json"
+            }
+        ]
+    }
+}
