@@ -1,10 +1,12 @@
 {
 	"name": "Platzi Theme",
 	"type": "dark",
+	// Editor UI
 	"colors": {
 		// Core editor
 		"editor.background": "#03091E",
 		"editor.foreground": "#eeffff",
+
 		// Badge
 		"activityBarBadge.background": "#adeb42",
 		"activityBarBadge.foreground": "#03091E",
@@ -23,6 +25,7 @@
 		// Status bar
 		"statusBar.background": "#adeb42",
 		"statusBar.foreground": "#0C1633",
+		"statusBar.noFolderBackground": "#0a8ecd",
 		
 		// Activity bar 
 		"activityBar.background": "#0C1633",
@@ -41,7 +44,11 @@
 		"editorGroupHeader.tabsBackground": "#03091E",
 		
 		// Inputs
-		"input.background": "#03091E"
+		"input.background": "#03091E",
+
+		// Quick input (Ctrl + P)
+		"quickInput.background": "#0d162f",
+		"quickInputList.focusBackground": "#121F3D",
 		
 	},
 	"tokenColors": [
