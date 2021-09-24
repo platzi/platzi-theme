@@ -1,7 +1,7 @@
 {
     "name": "platzi-theme-for-vs-code",
     "displayName": "Platzi Theme for VS Code",
-    "description": "A theme created with love by platzi theme for our students",
+    "description": "Un tema creado con amor por el equipo de Platzi para la comunidad 💚",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"

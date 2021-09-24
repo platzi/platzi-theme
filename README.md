@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "platzi-theme-for-vs-code"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Platzi Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Platzi Theme](https://i.imgur.com/KZKgm38.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Usa el tema oficial de Platzi, la escuela de eduación online efectiva en la que puedes acceder a más de 700 cursos en diferentes áreas de estudio como:
 
-**Enjoy!**
+- Ingeniería y desarrollo
+- Diseño y UX
+- Inglés
+- Marketing
+- Emprendimiento y negocios
+- Producción audiovisual ¡y más!
+
+## [¡Inicia ya!](https://platzi.com)
