@@ -12,9 +12,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Platzi Theme",
+                "label": "Platzi Theme Green Mode",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Platzi Theme-color-theme.json"
+            },
+            {
+                "label": "Platzi Theme Classic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Platzi Theme-color-theme-classic.json"
             }
         ]
     }

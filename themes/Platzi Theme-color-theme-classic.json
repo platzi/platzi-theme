@@ -23,8 +23,8 @@
 		"sideBarSectionHeader.background": "#121F3D",
 
 		// Status bar
-		"statusBar.background": "#adeb42",
-		"statusBar.foreground": "#0C1633",
+		"statusBar.background": "#090f24",
+		"statusBar.foreground": "#ffffff",
 		"statusBar.noFolderBackground": "#0a8ecd",
 
 		// Title bar
@@ -60,7 +60,6 @@
 
 		// widgets
 		"editorWidget.background": "#0d162f",
-		
 		
 	},
 	"tokenColors": [
