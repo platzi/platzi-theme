@@ -1,8 +1,10 @@
 {
     "name": "platzi-theme-for-vs-code",
-    "displayName": "Platzi Theme for VS Code",
+    "displayName": "Platzi Theme | Tema de Platzi",
     "description": "Un tema creado con amor por el equipo de Platzi para la comunidad 💚",
     "version": "1.0.0",
+    "publisher": "Codevars",
+    "icon": "images/icon.jpg",
     "engines": {
         "vscode": "^1.53.0"
     },
